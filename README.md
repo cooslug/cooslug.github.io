@@ -1,1 +1,1 @@
-# cooslug.github.io
+This repository contains the website cooslug.org. For the source code, please see https://github.com/cooslug/cooslug
