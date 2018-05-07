@@ -16,7 +16,7 @@
 title: CoosLUG
 email: lug@cooslug.org
 description: >- # this means to ignore newlines until "baseurl:"
-             A Linux and like-unix local user group serving Southwestern Oregon
+  A Linux and like-unix local user group serving Southwestern Oregon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
