@@ -1,0 +1,1 @@
+This repository contains the website and source code for cooslug.org
