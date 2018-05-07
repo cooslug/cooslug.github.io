@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are a new local Linux and like-unix user group in the Coos Bay / North Bend, Oregon area.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+For the latest information, visit our [github](https://github.com/cooslug) and see the ["issues"](https://github.com/cooslug/cooslug.github.io/issues) join in on the discussion of how to best organize this user group.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Also join us in IRC on Freenode: #cooslug
 
+This page will be updated and improved soon.
 
-[jekyll-organization]: https://github.com/jekyll
+Contact: lug@cooslug.org
